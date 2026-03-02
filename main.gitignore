@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+env/
+build/
+devel/
+install/
+*.bag  # ROS bag files (huge datasets)
+.env   # API keys or passwords
+new/
+old/
+submission/
