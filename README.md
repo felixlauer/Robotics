@@ -6,7 +6,7 @@ This repository contains the complete kinematics modelling and trajectory planni
 
 The robot's motion is governed by an analytical kinematic model. The coordinate frames are assigned according to standard Denavit-Hartenberg (DH) conventions.
 
-![Robot Configuration and Coordinate Frames]("robot visualisation/Robot_new1.png")
+![Robot Configuration and Coordinate Frames](robot%20visualisation/Robot_new1.png)
 
 ### Denavit-Hartenberg Parameters
 
